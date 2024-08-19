@@ -1,0 +1,33 @@
+body
+{
+    background-color: antiquewhite;
+}
+
+.container
+{
+    border: 5px black;
+    padding: 20px;
+    width: 50%;
+    margin: 200px auto auto auto;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+}
+
+input{
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+}
+
+button{
+    height: 30px;
+    width: 120px;
+    border-radius: 2px ;
+    font-size: 20px;
+    margin-left: 10px;
+    color: rgb(255, 244, 231);
+    background-color: #02ff0b;
+}
